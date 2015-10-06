@@ -1,4 +1,4 @@
 elixir-talk
 ===========
 
-My talk (in Reveal.js) and some associated Elixir files
+[MOVED TO TALKS REPO](https://github.com/j3rn/talks/tree/master/elixir-talk)
